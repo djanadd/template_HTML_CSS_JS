@@ -1,18 +1,18 @@
-"name": "openclassrooms_css-animations",
+{"name": "General Template",
 "version": "1.0.0",
-"description": "Ce repository contient les fichiers nécessaires aux activités 2 et 3 du cours Créez des animations CSS modernes sur [OpenClassrooms](http://openclassrooms.com/).",
+"description": "Template de site",
 "main": "index.js",
 "scripts": {
   "sass": "sass --watch ./scss/style.scss:./css/style.css"
 },
 "repository": {
   "type": "git",
-  "url": "git+https://github.com/atoulmet/openclassrooms_css-animations.git"
+  "url": "https://github.com/djanadd/template_HTML_CSS_JS"
 },
-"author": "",
+"author": "Vincent Verger",
 "license": "ISC",
 "bugs": {
-  "url": "https://github.com/atoulmet/openclassrooms_css-animations/issues"
+  "url": "https://github.com/djanadd/template_HTML_CSS_JS/issues"
 },
-"homepage": "https://github.com/atoulmet/openclassrooms_css-animations#readme"
+"homepage": "https://github.com/djanadd/template_HTML_CSS_JS/blob/main/README.md"
 }
